@@ -1,0 +1,14 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\Exc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\Exc3.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\Exc3.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\Exc3.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\bin\Debug\net8.0\Exc3.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\bin\Debug\net8.0\Exc3.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\bin\Debug\net8.0\Exc3.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\bin\Debug\net8.0\Exc3.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\bin\Debug\net8.0\Exc3.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\Exc3.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\refint\Exc3.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\Exc3.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\Exc3.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exc3\obj\Debug\net8.0\ref\Exc3.dll
