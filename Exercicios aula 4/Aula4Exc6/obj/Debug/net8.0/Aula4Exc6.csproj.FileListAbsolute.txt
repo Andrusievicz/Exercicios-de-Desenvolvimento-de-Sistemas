@@ -1,0 +1,14 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\bin\Debug\net8.0\Aula4Exc6.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\bin\Debug\net8.0\Aula4Exc6.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\bin\Debug\net8.0\Aula4Exc6.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\bin\Debug\net8.0\Aula4Exc6.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\bin\Debug\net8.0\Aula4Exc6.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\Aula4Exc6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\Aula4Exc6.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\Aula4Exc6.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\Aula4Exc6.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\Aula4Exc6.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\refint\Aula4Exc6.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\Aula4Exc6.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\Aula4Exc6.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Aula4Exc6\obj\Debug\net8.0\ref\Aula4Exc6.dll
