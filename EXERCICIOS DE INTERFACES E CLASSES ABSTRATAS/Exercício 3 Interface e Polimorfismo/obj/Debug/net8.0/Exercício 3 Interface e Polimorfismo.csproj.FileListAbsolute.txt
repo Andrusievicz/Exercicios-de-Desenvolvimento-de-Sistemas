@@ -1,0 +1,14 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\bin\Debug\net8.0\Exercício 3 Interface e Polimorfismo.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\bin\Debug\net8.0\Exercício 3 Interface e Polimorfismo.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\bin\Debug\net8.0\Exercício 3 Interface e Polimorfismo.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\bin\Debug\net8.0\Exercício 3 Interface e Polimorfismo.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\bin\Debug\net8.0\Exercício 3 Interface e Polimorfismo.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\Exercício 3 Interface e Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\Exercício 3 Interface e Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\Exercício 3 Interface e Polimorfismo.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\Exercício 3 Interface e Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\Exercício 3 Interface e Polimorfismo.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\refint\Exercício 3 Interface e Polimorfismo.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\Exercício 3 Interface e Polimorfismo.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\Exercício 3 Interface e Polimorfismo.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3 Interface e Polimorfismo\obj\Debug\net8.0\ref\Exercício 3 Interface e Polimorfismo.dll

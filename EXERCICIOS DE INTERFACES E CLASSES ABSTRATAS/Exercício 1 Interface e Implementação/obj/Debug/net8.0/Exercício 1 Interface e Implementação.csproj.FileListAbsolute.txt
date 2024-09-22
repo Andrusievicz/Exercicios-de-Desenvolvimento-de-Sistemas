@@ -1,0 +1,14 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\bin\Debug\net8.0\Exercício 1 Interface e Implementação.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\bin\Debug\net8.0\Exercício 1 Interface e Implementação.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\bin\Debug\net8.0\Exercício 1 Interface e Implementação.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\bin\Debug\net8.0\Exercício 1 Interface e Implementação.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\bin\Debug\net8.0\Exercício 1 Interface e Implementação.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\Exercício 1 Interface e Implementação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\Exercício 1 Interface e Implementação.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\Exercício 1 Interface e Implementação.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\Exercício 1 Interface e Implementação.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\Exercício 1 Interface e Implementação.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\refint\Exercício 1 Interface e Implementação.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\Exercício 1 Interface e Implementação.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\Exercício 1 Interface e Implementação.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 Interface e Implementação\obj\Debug\net8.0\ref\Exercício 1 Interface e Implementação.dll

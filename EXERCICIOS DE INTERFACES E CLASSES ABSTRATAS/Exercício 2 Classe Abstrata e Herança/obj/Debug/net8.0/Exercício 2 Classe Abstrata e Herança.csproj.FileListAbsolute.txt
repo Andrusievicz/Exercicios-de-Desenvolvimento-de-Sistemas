@@ -1,0 +1,14 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\bin\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\bin\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\bin\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\bin\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\bin\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\refint\Exercício 2 Classe Abstrata e Herança.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\Exercício 2 Classe Abstrata e Herança.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 2 Classe Abstrata e Herança\obj\Debug\net8.0\ref\Exercício 2 Classe Abstrata e Herança.dll
