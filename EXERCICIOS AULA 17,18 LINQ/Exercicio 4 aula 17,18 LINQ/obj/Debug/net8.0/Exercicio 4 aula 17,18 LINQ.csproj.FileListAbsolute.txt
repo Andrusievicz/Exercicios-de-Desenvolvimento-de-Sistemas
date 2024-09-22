@@ -1,0 +1,28 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\refint\Exercicio 4 aula 17,18 LINQ.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\ref\Exercicio 4 aula 17,18 LINQ.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\bin\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\refint\Exercicio 4 aula 17,18 LINQ.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\Exercicio 4 aula 17,18 LINQ.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\EXERCICIOS AULA 17,18 LINQ\Exercicio 4 aula 17,18 LINQ\obj\Debug\net8.0\ref\Exercicio 4 aula 17,18 LINQ.dll
