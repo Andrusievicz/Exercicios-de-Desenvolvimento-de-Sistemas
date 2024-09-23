@@ -1,0 +1,14 @@
+C:\Users\ivone\source\repos\Exc7\bin\Debug\net8.0\Exc7.exe
+C:\Users\ivone\source\repos\Exc7\bin\Debug\net8.0\Exc7.deps.json
+C:\Users\ivone\source\repos\Exc7\bin\Debug\net8.0\Exc7.runtimeconfig.json
+C:\Users\ivone\source\repos\Exc7\bin\Debug\net8.0\Exc7.dll
+C:\Users\ivone\source\repos\Exc7\bin\Debug\net8.0\Exc7.pdb
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\Exc7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\Exc7.AssemblyInfoInputs.cache
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\Exc7.AssemblyInfo.cs
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\Exc7.csproj.CoreCompileInputs.cache
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\Exc7.dll
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\refint\Exc7.dll
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\Exc7.pdb
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\Exc7.genruntimeconfig.cache
+C:\Users\ivone\source\repos\Exc7\obj\Debug\net8.0\ref\Exc7.dll
