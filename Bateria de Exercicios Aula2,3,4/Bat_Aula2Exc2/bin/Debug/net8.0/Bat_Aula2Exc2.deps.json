@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bat_Aula2Exc2/1.0.0": {
+        "runtime": {
+          "Bat_Aula2Exc2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bat_Aula2Exc2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
