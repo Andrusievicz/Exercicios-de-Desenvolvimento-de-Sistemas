@@ -1,0 +1,28 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\refint\Exercicio 3 Eventos.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio 3 Eventos\obj\Debug\net8.0\ref\Exercicio 3 Eventos.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\bin\Debug\net8.0\Exercicio 3 Eventos.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\refint\Exercicio 3 Eventos.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\Exercicio 3 Eventos.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercicio de propriedades, Campos, Métodos e Eventos\Exercicio 3 Eventos\obj\Debug\net8.0\ref\Exercicio 3 Eventos.dll

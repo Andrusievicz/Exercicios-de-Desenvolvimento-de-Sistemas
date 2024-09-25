@@ -1,0 +1,7 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 e 2\bin\Debug\Exercício 1 e 2.exe.config
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 e 2\bin\Debug\Exercício 1 e 2.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 e 2\bin\Debug\Exercício 1 e 2.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 e 2\obj\Debug\Exercício 1 e 2.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 e 2\obj\Debug\Exercício 1 e 2.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 e 2\obj\Debug\Exercício 1 e 2.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 1 e 2\obj\Debug\Exercício 1 e 2.pdb
