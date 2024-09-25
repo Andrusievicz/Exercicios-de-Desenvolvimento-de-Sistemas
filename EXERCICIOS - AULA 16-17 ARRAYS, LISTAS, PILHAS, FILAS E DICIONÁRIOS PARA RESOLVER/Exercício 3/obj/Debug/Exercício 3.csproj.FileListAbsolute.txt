@@ -1,0 +1,7 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3\bin\Debug\Exercício 3.exe.config
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3\bin\Debug\Exercício 3.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3\bin\Debug\Exercício 3.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3\obj\Debug\Exercício 3.csproj.AssemblyReference.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3\obj\Debug\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3\obj\Debug\Exercício 3.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Exercício 3\obj\Debug\Exercício 3.pdb
