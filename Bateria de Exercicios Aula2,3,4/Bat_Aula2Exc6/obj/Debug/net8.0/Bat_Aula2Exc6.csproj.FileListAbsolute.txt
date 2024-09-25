@@ -1,0 +1,14 @@
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\bin\Debug\net8.0\Bat_Aula2Exc6.exe
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\bin\Debug\net8.0\Bat_Aula2Exc6.deps.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\bin\Debug\net8.0\Bat_Aula2Exc6.runtimeconfig.json
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\bin\Debug\net8.0\Bat_Aula2Exc6.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\bin\Debug\net8.0\Bat_Aula2Exc6.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\Bat_Aula2Exc6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\Bat_Aula2Exc6.AssemblyInfoInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\Bat_Aula2Exc6.AssemblyInfo.cs
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\Bat_Aula2Exc6.csproj.CoreCompileInputs.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\Bat_Aula2Exc6.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\refint\Bat_Aula2Exc6.dll
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\Bat_Aula2Exc6.pdb
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\Bat_Aula2Exc6.genruntimeconfig.cache
+C:\Users\ivone\Desktop\Desenvolvimento de Sistemas(meg)\Bat_Aula2Exc6\obj\Debug\net8.0\ref\Bat_Aula2Exc6.dll
